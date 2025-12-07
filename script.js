@@ -1,12 +1,15 @@
 let Name = "Levan"
 
-console.log("Name");
+console.log("ლევან");
 
 let Surname = "Ushikishvili"
 
-console.log( "Surname");
+console.log( "უშიკიშვილი");
 
 let Age = 42
+
+console.log("42");
+
  
 let Age1 = 17
 
@@ -16,7 +19,7 @@ console.warn(result);
 
 let Mail = "uleush11@gmail.com"
 
-console.log("Mail");
+console.log("uleush11@gmail.com");
 
 Number = "500000000"
 
